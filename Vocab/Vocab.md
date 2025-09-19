@@ -74,7 +74,3 @@
 
   Example: He sat in a pensive mood, reflecting on his life choices.
  
-   Meaning: To discuss something with someone to share ideas.
-
-   Example:"The doctors will confer about the best course of treatment for the patient."
- 
