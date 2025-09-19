@@ -59,7 +59,7 @@
     Meaning:Truthful and straightforward.
     Example:"She gave a candid response to the interviewer's question".
 
-11.  Gregarious
+11. Gregarious
 
     Meaning:Fond of company,sociable.
     Example:"Her gregarious nature made her the life of the party".
