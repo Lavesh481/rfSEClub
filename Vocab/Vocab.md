@@ -23,7 +23,7 @@
  
    Meaning: Sluggish and inactive
    Example: "He is lethargic in school."
-=======
+ 
    Meaning: Sluggish and inactive.
 
    Example:"He is lethargic in school."
