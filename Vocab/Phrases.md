@@ -26,10 +26,14 @@
    Example: "Whole time he was barking up the wrong tree."
 
 6. To kill two birds with one stone
-   Meaning: to solve two problems at once.
-   Example: Who doesn’t like products that kill two birds with one stone?
 
-7. On cloud nice    
+   Meaning: to solve two problems at once.
+   Example: "Who doesn’t like products that kill two birds with one stone?"
+  
+7. When pigs fly
+
+<<<<<<< HEAD
+7. On cloud nice
 
    Meaning: Extremely happy.
    Example: "She was on cloud nine after receiving the job offer for her dream position".
@@ -45,7 +49,7 @@
 
     Example: "He's always ready to help his friends at the drop of a hat."
 
-10. Dilemma   
+10. Dilemma
 
    Meaning: A situation requiring a difficult choice.
    Example: "She faced a dilemma: accept the job abroad or stay close to family".
@@ -69,3 +73,7 @@
   Meaning:To reveal a secret.
 
    Example: Come on, spill the beans! I know you heard the news, but you're not telling me".
+
+   Meaning: never or that something is highly unlikely to ever happen
+
+   Example:  "You'll get your allowance on time? I'll believe that when pigs fly!"
